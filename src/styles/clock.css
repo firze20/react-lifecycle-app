@@ -1,0 +1,19 @@
+button {
+    transition-duration: 0.1s;
+    background-color: #F4595B;
+    border: none;
+    border-radius: 8px;
+    border-bottom: 4px solid #C24648;
+    color: white;
+    padding: 15px 32px;
+    margin: 0 1em 1em 1em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+
+button:hover {
+    cursor: 'pointer';
+}
